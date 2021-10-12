@@ -5,6 +5,7 @@ module.exports = {
 
   plugins: [
     require('unplugin-icons/webpack')(),
+    require('./unplugin').webpack(),
   ],
 
   cache: {
