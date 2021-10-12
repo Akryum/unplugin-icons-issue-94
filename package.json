@@ -1,0 +1,20 @@
+{
+  "name": "unplugin-icons-webpack-persistent-cache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "devDependencies": {
+    "@iconify/json": "^1.1.413",
+    "@vue/compiler-sfc": "^3.2.20",
+    "unplugin-icons": "^0.12.13",
+    "webpack": "^5.58.1",
+    "webpack-cli": "^4.9.0"
+  },
+  "dependencies": {
+    "vue": "^3.2.20"
+  }
+}
