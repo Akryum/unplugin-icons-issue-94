@@ -4,7 +4,7 @@ module.exports = {
   mode: 'production',
 
   plugins: [
-    require('unplugin-icons/webpack')(),
+    // require('unplugin-icons/webpack')(),
     require('./unplugin').webpack(),
   ],
 
